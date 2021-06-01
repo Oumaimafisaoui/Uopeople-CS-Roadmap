@@ -17,4 +17,4 @@
   [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Oumaimafisaoui on Twitter" title="Follow Oumaimafisaoui on Twitter"/>](https://twitter.com/Oumaimafisaoui)
   
  
-  Do you like the content? Share it with your friends who may like it too !
+ 🌟 Do you like the content? Share it with your friends who may like it too !
