@@ -5,3 +5,22 @@ https://www.programiz.com/python-programming
 https://realpython.com/start-here/
 https://www.dataquest.io/blog/learn-python-the-right-way/
 https://www.w3schools.com/python/
+
+Youtube channels:
+
+1. Telusko
+
+2. CS Dojo
+
+3. Corey Schafer
+
+4. Harshit Vashisth (Hindi)
+
+5. Sentdex
+ 
+6. The New Boston
+
+7. Programming with Mosh
+
+8. Anaconda
+
